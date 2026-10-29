@@ -2,19 +2,19 @@
 
 Especialista em terminais POS Android: PAX, Sunmi, Nexgo, Wiseasy e Tectoy.
 
-- Suporte remoto via TMS e atendimento presencial
+- Desenvolvimento de ferramentas desktop para gestão e diagnóstico de terminais
 - Diagnóstico de hardware e software
 - Provisionamento em massa via USB
-- Desenvolvimento de ferramentas desktop para gestão e diagnóstico de terminais
+- Suporte remoto via TMS e atendimento presencial
 
 ## Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin,androidstudio,cs,dotnet,git&theme=dark">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,cs,dotnet,git&theme=light" alt="Ícones das tecnologias: Kotlin, Android Studio, C#, .NET e Git">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin,java,androidstudio,git&theme=dark">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,git&theme=light" alt="Ícones das tecnologias: Kotlin, Java, Android Studio e Git">
 </picture>
 
-Kotlin · Compose Desktop · C#/.NET · Android · Git
+Kotlin · Java · Compose Desktop · Android · Git
 
 ## Contato
 
