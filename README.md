@@ -10,8 +10,8 @@ Especialista em terminais POS Android: PAX, Sunmi, Nexgo, Wiseasy e Tectoy.
 ## Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin,java,androidstudio,git&theme=dark">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,git&theme=light" alt="Ícones das tecnologias: Kotlin, Java, Android Studio e Git">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin%2Cjava%2Candroidstudio%2Cgit&theme=dark">
+  <img src="https://skillicons.dev/icons?i=kotlin%2Cjava%2Candroidstudio%2Cgit&theme=light" alt="Ícones das tecnologias: Kotlin, Java, Android Studio e Git">
 </picture>
 
 Kotlin · Java · Compose Desktop · Android · Git
