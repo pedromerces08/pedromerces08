@@ -1,16 +1,21 @@
-## Hi there 👋
+# Pedro Merces
 
-<!--
-**pedromerces08/pedromerces08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Especialista em terminais POS Android: PAX, Sunmi, Nexgo, Wiseasy e Tectoy.
 
-Here are some ideas to get you started:
+- Suporte remoto via TMS e atendimento presencial
+- Diagnóstico de hardware e software
+- Provisionamento em massa via USB
+- Desenvolvimento de ferramentas desktop para gestão e diagnóstico de terminais
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin,androidstudio,cs,dotnet,git&theme=dark">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,cs,dotnet,git&theme=light" alt="Ícones das tecnologias: Kotlin, Android Studio, C#, .NET e Git">
+</picture>
+
+Kotlin · Compose Desktop · C#/.NET · Android · Git
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/pedro-augusto-319573156)
